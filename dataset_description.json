@@ -1,0 +1,22 @@
+{
+    "Name": "Psilocybin Precision Functional Mapping (data from Psilocybin desynchronizes the human brain)",
+    "BIDSVersion": "1.6.0",
+    "HEDVersion": "",
+    "DatasetType": "raw",
+    "License": "PDDL",
+    "Authors": [
+        "Subramanian, S.",
+        "Reneau, T.R.",
+        "Perry, D.",
+        "et al."
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [""],
+    "EthicsApprovals": [""],
+    "ReferencesAndLinks": [
+        "Siegel, J.S., Subramanian, S., Perry, D. et al. Psilocybin desynchronizes the human brain. Nature 632, 131–138 (2024). https://doi.org/10.1038/s41593-024-01564-3"
+    ],
+    "DatasetDOI": ""
+}
+
