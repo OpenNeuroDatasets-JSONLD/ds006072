@@ -3,7 +3,7 @@
     "BIDSVersion": "1.6.0",
     "HEDVersion": "",
     "DatasetType": "raw",
-    "License": "PDDL",
+    "License": "CC0",
     "Authors": [
         "Subramanian, S.",
         "Reneau, T.R.",
@@ -12,11 +12,14 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
-    "Funding": [""],
-    "EthicsApprovals": [""],
+    "Funding": [
+        ""
+    ],
+    "EthicsApprovals": [
+        ""
+    ],
     "ReferencesAndLinks": [
         "Siegel, J.S., Subramanian, S., Perry, D. et al. Psilocybin desynchronizes the human brain. Nature 632, 131–138 (2024). https://doi.org/10.1038/s41593-024-01564-3"
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "doi:10.18112/openneuro.ds006072.v1.0.0"
 }
-
