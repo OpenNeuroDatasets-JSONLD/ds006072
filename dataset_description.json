@@ -13,7 +13,9 @@
     "Acknowledgements": "This work was supported by the Taylor Family Institute Fund for Innovative Psychiatric Research; the McDonnell Center for Systems Neuroscience; and the Washington University Institute of Clinical and Translational Sciences grant UL1TR002345 from the National Center for Advancing Translational Sciences (NCATS) of the National Institutes of Health (NIH). The content is solely the responsibility of the authors and does not necessarily represent the official view of the NIH.",
     "HowToAcknowledge": "Research reported in this publication was supported by the Taylor Family Institute Fund for Innovative Psychiatric Research and the Washington University Institute of Clinical and Translational Sciences grant UL1TR002345 from the National Center for Advancing Translational Sciences (NCATS) of the National Institutes of Health (NIH). The content is solely the responsibility of the authors and does not necessarily represent the official view of the NIH",
     "Funding": [
-        "This work was supported by the Taylor Family Institute Fund for Innovative Psychiatric Research; the McDonnell Center for Systems Neuroscience; and the Washington University Institute of Clinical and Translational Sciences"
+        "Taylor Family Institute Fund for Innovative Psychiatric Research",
+        "McDonnell Center for Systems Neuroscience",
+        "Washington University Institute of Clinical and Translational Sciences"
     ],
     "EthicsApprovals": [
         ""
