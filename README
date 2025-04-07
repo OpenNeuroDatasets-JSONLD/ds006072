@@ -44,7 +44,7 @@ P5R	PSIL
 
 ##Notes from MRI sessions
 PPFM_session_notes.xlsx
-session_data.txt
+session_data.csv
 - Any rest scans that were ended early for any reason (e.g. P6 ses-5 REST3, P4R ses-2 REST3,) will not have the 3 noise images at the end. We copied noise frames from neighboring a rest scan so this did not interfere with NORDIC denoising.
 
 ## Phenotypic Data Description
