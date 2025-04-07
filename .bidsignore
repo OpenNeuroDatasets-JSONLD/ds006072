@@ -1,0 +1,5 @@
+*.log 
+UNKNOWN 
+DISCARD 
+NON_BIDS
+session_data.csv
